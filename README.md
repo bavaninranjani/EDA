@@ -14,6 +14,9 @@ Insights from this analysis help undeerstand concepts on :
 - Data Imbalance:Potential imbalances in data that may affect model training.
 - Data Visualizations to detect trends:Early signals for feature engineering or risk stratification models.
 
+  ![image](https://github.com/user-attachments/assets/aaf8d408-af84-4fdd-a257-d8c1fc675b01)
+
+
 ## Tech Stack
 
 - **Language**: Python
