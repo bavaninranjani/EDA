@@ -32,6 +32,6 @@ Insights from this analysis help undeerstand concepts on :
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/krishnamami/Exploratory_Data_Analysis.git
+   git clone https://github.com/bavaninranjani/EDA.git
    cd Exploratory_Data_Analysis
    python eda.py
